@@ -1,4 +1,4 @@
-# CVproject
+# CurrencyRecognitionCVproject
 
 This repository contains a computer vision project implemented using Python and Jupyter notebooks. The project is divided into three phases, each addressing a specific aspect of computer vision.
 
@@ -44,10 +44,3 @@ The project relies on the following Python libraries:
 - `scikit-learn`
 - `tensorflow`
 
-## Usage
-
-Open the Jupyter notebooks (`.ipynb` files) in your browser and run the cells sequentially to execute the project phases.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details (if applicable).
